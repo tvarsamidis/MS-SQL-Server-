@@ -41,3 +41,10 @@ https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-
 
 or Download Azure Data Studio from the link below
 https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15
+
+
+
+
+# Demo databases
+
+As demo databases can be downloaded from https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
